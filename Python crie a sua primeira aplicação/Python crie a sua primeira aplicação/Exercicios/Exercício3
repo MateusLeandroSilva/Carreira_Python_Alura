@@ -1,0 +1,6 @@
+# Listas
+nonlocalumbs = list(range(1, 10))
+nomes = ["Clara", "Grazy", "Cida", "Livia"]
+data_nasc = ["08/06/2006", "02/02/1990", "03/03/1970", "04/04/2015"]
+
+

@@ -10,15 +10,19 @@ Repositório destinado ao armazenamento de projetos, exercícios e materiais de 
 
 ## 🎯 Objetivos da Formação
 
-- Dominar os fundamentos da linguagem Python
-- Desenvolver aplicações backend robustas e escaláveis
-- Compreender conceitos de programação orientada a objetos
-- Trabalhar com bancos de dados e APIs
-- Aplicar boas práticas de desenvolvimento
+- Dominar o back-end com Python
+- Criar APIs com Django, FastAPI e Flask
+- Aplicar arquitetura de software adequada
+- Trabalhar com CI/CD (Integração e Entrega Contínua)
+- Enfrentar desafios reais do mercado
+- Desenvolver aplicações web escaláveis e seguras
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3.x** - Linguagem de programação principal
+- **Django** - Framework web full-stack
+- **FastAPI** - Framework moderno para APIs
+- **Flask** - Microframework web
 - **Git/GitHub** - Controle de versão e versionamento de código
 
 ## 📂 Estrutura do Repositório
@@ -67,28 +71,56 @@ python Exercícios/Exercício2.py
 
 ## 📚 Módulos e Cursos
 
-### Em Andamento
-- ✅ Python: crie a sua primeira aplicação
-- 🔄 [Próximos cursos da formação]
+A formação está dividida em 4 níveis progressivos:
+
+### 📗 BASE - Fundamentos de Programação com Python
+- 🔄 Em andamento
+- Aprendendo os fundamentos essenciais da linguagem
+
+### 📘 NÍVEL 1 - Estruturando Aplicações Web
+- ⏳ Aguardando
+- Criação de aplicações web estruturadas
+
+### 📙 NÍVEL 2 - Qualidade, Segurança e Escalabilidade
+- ⏳ Aguardando
+- Boas práticas e desenvolvimento seguro
+
+### 📕 NÍVEL 3 - Arquitetura, Desempenho e Deploy de Sistemas em Produção
+- ⏳ Aguardando
+- Deploy, CI/CD e arquitetura de software
 
 ## 💡 Aprendizados
 
 Aqui documento os principais conceitos e técnicas aprendidos:
 
+### BASE - Fundamentos
 - Sintaxe básica do Python
-- Estruturas de dados
+- Estruturas de dados (listas, dicionários, tuplas)
 - Funções e métodos
 - Programação orientada a objetos
-- [outros tópicos conforme avançar]
+- Tratamento de erros e exceções
+
+### Próximos Níveis
+- APIs RESTful com Django e FastAPI
+- Arquitetura de microsserviços
+- Testes automatizados
+- CI/CD e Deploy
+- Segurança em aplicações web
 
 ## 📈 Progresso
 
-![Progresso](https://img.shields.io/badge/Progresso-XX%25-brightgreen.svg)
+![Progresso](https://img.shields.io/badge/Progresso-25%25-brightgreen.svg)
 
+**Formação: Desenvolvimento Back-End Python**
+
+- [x] Matrícula na formação
 - [x] Configuração do ambiente de desenvolvimento
-- [x] Primeiro projeto Python
-- [ ] Conceitos avançados
-- [ ] Projeto final
+- [x] Início do módulo BASE
+- [ ] Conclusão do módulo BASE - Fundamentos
+- [ ] NÍVEL 1 - Estruturando Aplicações Web
+- [ ] NÍVEL 2 - Qualidade, Segurança e Escalabilidade
+- [ ] NÍVEL 3 - Arquitetura e Deploy
+- [ ] Projeto final da formação
 
 ## 🤝 Contribuições
 

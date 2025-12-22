@@ -39,7 +39,6 @@ def subtitulo(texto):
 
 
     #Funcões do menu
-    
 def cadastrar_restaurante():
     subtitulo('Cadastrar restaurante')
     nome_do_restaurante = input('Digite o nome do restaurante que deseja cadastrar: ')

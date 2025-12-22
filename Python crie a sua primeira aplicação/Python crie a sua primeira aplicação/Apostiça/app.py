@@ -31,8 +31,11 @@ def opcao_invalida():
 
 def subtitulo(texto):
     os.system('cls')
-    print(f'--- {texto} ---\n')
-
+    linha = '*' * (len(texto))
+    print(linha)
+    print(texto)
+    print(linha)
+    print()
 
 
     #Funcões do menu
@@ -50,10 +53,13 @@ def cadastrar_restaurante():
 def listar_restaurantes():
     subtitulo('Listar restaurantes')
 
+
+    print(f'{"Nome do Restaurante".ljust(22)} | {"Categoria".ljust(22)} | Status')
     for restaurante in restaurantes:
         nome_restaurante = restaurante['nome']
         categoria = restaurante['categoria']
-        ativo = restaurante['ativo']        print(f'- {nome_restaurante} | {categoria} | {ativo}')
+        ativo = 'Ativo' if restaurante['ativo'] else 'Desativado'
+        print(f'- {nome_restaurante.ljust(20)} | {categoria.ljust(20)} | {ativo}')
 
     voltar_ao_menu_principal()
 
@@ -61,6 +67,7 @@ def listar_restaurantes():
 def alternar_estado_restaurante():
     subtitulo('Alterar estado do restaurante')
     nome_restaurante = input('Digite o nome do restaurante que deseja alternar o estado: ')
+
     restaurante_encontrado = False
     for restaurante in restaurantes:
         if nome_restaurante == restaurante['nome']:
@@ -84,7 +91,7 @@ def finalizar_app():
 def exibir_opcoes():
     print('1. Cadastrar restaurante')
     print('2. Listar restaurantes')
-    print('3. Ativar restaurante')
+    print('3. Alternar restaurante')
     print('4. Sair\n')
     
 def escolher_opcao():

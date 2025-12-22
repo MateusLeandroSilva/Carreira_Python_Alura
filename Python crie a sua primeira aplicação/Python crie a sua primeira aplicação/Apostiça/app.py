@@ -1,6 +1,11 @@
 import os
 
-restaurantes = ['Restaurante A','Restaurante B','Restaurante C']
+restaurantes = [
+                {'nome':'Praca', 'categoria':'Japonesa', 'ativo':False},
+                {'nome':'Pizza Suprema', 'categoria':'Pizza', 'ativo':True},
+                {'nome':'Cantina', 'categoria':'Italiano', 'ativo':False}, 
+]
+
 
 def exibir_nome_do_programa():
     print("""
@@ -13,6 +18,7 @@ def exibir_nome_do_programa():
 """)
 
 
+
    # Funções de apoio
 
 def voltar_ao_menu_principal():
@@ -23,9 +29,11 @@ def opcao_invalida():
     print('Opção inválida! Tente novamente!\n')
     voltar_ao_menu_principal()
 
+
 def subtitulo(texto):
     os.system('cls')
     print(f'--- {texto} ---\n')
+
 
 
     #Funcões do menu
@@ -37,14 +45,21 @@ def cadastrar_restaurante():
     print(f'Restaurante {nome_do_restaurante} cadastrado com sucesso!\n')
     voltar_ao_menu_principal()
     
+
 def listar_restaurantes():
     subtitulo('Listar restaurantes')
+
     for restaurante in restaurantes:
-        print(f'.{restaurante}')
+        nome_restaurante = restaurante['nome']
+        print(f'- {nome_restaurante}')
+
     voltar_ao_menu_principal()
+
+
 
 def finalizar_app():
     subtitulo('Aplicativo Finalizado')
+
 
 
     # Funções principais do app

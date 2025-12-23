@@ -150,8 +150,8 @@ Este é um repositório pessoal de estudos, mas sugestões e feedbacks são semp
 
 **Seu Nome**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: [Mateus L Silva](https://github.com/MateusLeandroSilva)
+- LinkedIn: [Mateus Leandro Silva](www.linkedin.com/in/mateusleandrosilva)
 
 ## 📄 Licença
 

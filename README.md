@@ -148,7 +148,7 @@ Este é um repositório pessoal de estudos, mas sugestões e feedbacks são semp
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Mateus Leandro Silva**
 
 - GitHub: [Mateus L Silva](https://github.com/MateusLeandroSilva)
 - LinkedIn: [Mateus Leandro Silva](www.linkedin.com/in/mateusleandrosilva)
@@ -164,4 +164,4 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para m
 
 ---
 
-⭐ Desenvolvido durante a Formação Backend Python na Alura
+⭐ Desenvolvido durante a Carreira Backend Python na Alura

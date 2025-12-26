@@ -27,17 +27,15 @@ Repositório destinado ao armazenamento de projetos, exercícios e materiais de 
 
 ## 📂 Estrutura do Repositório
 
-```
-📦 repositorio-formacao-python
-├── 📁 Python crie a sua primeira aplicação
-│   └── Projetos do módulo introdutório
-├── 📁 Apostiça
-│   └── 📄 app.py - Aplicação principal
-├── 📁 Exercícios
-│   ├── 📄 Exercício2.py
-│   └── 📄 Exercício3.py
-└── 📄 README.md
-```
+📚 Cada pasta principal representa um curso da carreira de **Desenvolvimento Back-end em Python**.
+
+🧩 Dentro de cada curso, há sempre:
+
+- 📂 **Exercicios**: arquivos com atividades práticas para fixação do conteúdo.
+- 🚀 **Projeto**: aplicação desenvolvida ao final do curso para consolidar o aprendizado.
+
+🐍 Todos os códigos são escritos em **Python**, acompanhando a evolução dos estudos ao longo da carreira.
+
 
 ## 🚀 Como Executar os Projetos
 
@@ -60,7 +58,7 @@ cd seu-repositorio
 
 3. Execute os arquivos Python:
 ```bash
-python Apostiça/app.py
+python Projeto/app.py
 ```
 
 ou
@@ -88,6 +86,28 @@ A formação está dividida em 4 níveis progressivos:
 ### 📕 NÍVEL 3 - Arquitetura, Desempenho e Deploy de Sistemas em Produção
 - ⏳ Aguardando
 - Deploy, CI/CD e arquitetura de software
+
+- ## 📜 Certificados
+
+### 🎓 Certificados por Curso
+
+#### BASE - Fundamentos de Programação com Python
+- [Pensamento computacional: fundamentos da computação e lógica de programação](https://cursos.alura.com.br/certificate/20619e1e-e41a-4d3f-8ae4-9fee229709f9?lang=pt_BR)
+- [Python: crie a sua primeira aplicação](https://cursos.alura.com.br/certificate/2fc23fe5-a1b8-454a-9591-a5de3b97795a?lang=pt_BR)
+- Praticando Python: condicionais if, elif e else (Em Progresso)
+
+#### NÍVEL 1 - Estruturando Aplicações Web
+- ⏳ Em breve...
+
+#### NÍVEL 2 - Qualidade, Segurança e Escalabilidade
+- ⏳ Em breve...
+
+#### NÍVEL 3 - Arquitetura e Deploy
+- ⏳ Em breve...
+
+---
+
+> 💡 **Dica:** Clique nos links para verificar a autenticidade dos certificados no site da Alura.
 
 ## 💡 Aprendizados
 
@@ -128,10 +148,10 @@ Este é um repositório pessoal de estudos, mas sugestões e feedbacks são semp
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Mateus Leandro Silva**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
+- GitHub: [Mateus L Silva](https://github.com/MateusLeandroSilva)
+- LinkedIn: [Mateus Leandro Silva](www.linkedin.com/in/mateusleandrosilva)
 
 ## 📄 Licença
 
@@ -144,4 +164,4 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para m
 
 ---
 
-⭐ Desenvolvido durante a Formação Backend Python na Alura
+⭐ Desenvolvido durante a Carreira Backend Python na Alura

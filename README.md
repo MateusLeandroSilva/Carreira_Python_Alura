@@ -94,7 +94,7 @@ A formação está dividida em 4 níveis progressivos:
 #### BASE - Fundamentos de Programação com Python
 - [Pensamento computacional: fundamentos da computação e lógica de programação](https://cursos.alura.com.br/certificate/20619e1e-e41a-4d3f-8ae4-9fee229709f9?lang=pt_BR)
 - [Python: crie a sua primeira aplicação](https://cursos.alura.com.br/certificate/2fc23fe5-a1b8-454a-9591-a5de3b97795a?lang=pt_BR)
-- Praticando Python: condicionais if, elif e else (Em Progresso)
+- [Praticando Python: condicionais if, elif e else](https://cursos.alura.com.br/certificate/8ab05d6b-7ac0-4803-ba6e-1827114e8f97?lang=pt_BR)
 
 #### NÍVEL 1 - Estruturando Aplicações Web
 - ⏳ Em breve...

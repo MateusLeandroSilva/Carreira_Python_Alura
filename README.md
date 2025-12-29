@@ -109,24 +109,6 @@ A formação está dividida em 4 níveis progressivos:
 
 > 💡 **Dica:** Clique nos links para verificar a autenticidade dos certificados no site da Alura.
 
-## 💡 Aprendizados
-
-Aqui documento os principais conceitos e técnicas aprendidos:
-
-### BASE - Fundamentos
-- Sintaxe básica do Python
-- Estruturas de dados (listas, dicionários, tuplas)
-- Funções e métodos
-- Programação orientada a objetos
-- Tratamento de erros e exceções
-
-### Próximos Níveis
-- APIs RESTful com Django e FastAPI
-- Arquitetura de microsserviços
-- Testes automatizados
-- CI/CD e Deploy
-- Segurança em aplicações web
-
 ## 📈 Progresso
 
 ![Progresso](https://img.shields.io/badge/Progresso-25%25-brightgreen.svg)
